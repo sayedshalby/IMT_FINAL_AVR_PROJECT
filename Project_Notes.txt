@@ -1,5 +1,7 @@
 Factory Secutrity System
 
+The code in MC1 in folder ---> AVR_FINAL_MC1
+The Code in MC2 in folder ---> AVR_Final_Project2
 important Notes---->
 0- system password in start is 5555 and you can change it later.
 1- the password entered by user must be 4 digit only.
