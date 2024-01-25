@@ -1,0 +1,10 @@
+Factory Secutrity System
+
+important Notes---->
+0- system password in start is 5555 and you can change it later.
+1- the password entered by user must be 4 digit only.
+2- temperature that shows on seven segment in celsius degree.
+2- FAN start when the temperature of the room is bigger than 35 celsius degree.
+3- All motors machines will stop except the FAN if the ultrasonic sensor
+   detect object less than 15 meter
+ 
